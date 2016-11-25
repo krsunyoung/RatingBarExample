@@ -1,4 +1,4 @@
-package com.estsoft.ratingbarexample;
+package com.bit2016.ratingbarexample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
